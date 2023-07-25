@@ -1,0 +1,4 @@
+La web está formada por un documento HTML que representa una página con contenido multimedia y enlaces.
+la página web tiene un encabezado (header) con un logotipo y enlaces de navegación, tres secciones con
+títulos, texto de párrafo e imágenes o videos, y un pie de página (footer) con enlaces de redes sociales
+y un párrafo. Cada sección está centrada en la página mediante el uso de estilos en línea.
